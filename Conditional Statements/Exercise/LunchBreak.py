@@ -21,4 +21,3 @@ if needed_time <= duration_of_lunch_break:
 else:
     diff = math.ceil(needed_time - duration_of_lunch_break)
     print(NO_MESSAGE.format(serial_name, "%.0f" % diff))
-
