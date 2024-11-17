@@ -1,0 +1,20 @@
+MORNING_OUTFIT = {
+    
+}
+MORNING_SHOES = {
+
+}
+
+AFTERNOON_OUTFIT = {
+
+}
+AFTERNOON_SHOES = {
+
+}
+
+EVENING_OUTFIT = {
+
+}
+EVENING_SHOES = {
+
+}
