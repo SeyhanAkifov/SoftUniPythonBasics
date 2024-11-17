@@ -18,3 +18,5 @@ EVENING_OUTFIT = {
 EVENING_SHOES = {
 
 }
+
+df = 0
