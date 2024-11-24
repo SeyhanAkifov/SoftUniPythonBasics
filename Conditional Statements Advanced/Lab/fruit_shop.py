@@ -1,5 +1,3 @@
-from dbm import error
-
 WORKDAY_PRICES = {
     'banana': 2.50,
     'apple' : 1.20,
