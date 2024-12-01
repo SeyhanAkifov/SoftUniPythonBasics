@@ -60,6 +60,3 @@ print(f'Total tickets: {total_ticket}')
 print(f'{total_student_percent:.2f}% student tickets.')
 print(f'{total_standard_percent:.2f}% standard tickets.')
 print(f'{total_kid_percent:.2f}% kids tickets.')
-
-
-
